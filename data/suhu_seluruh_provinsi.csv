@@ -1,0 +1,229 @@
+Tahun,Provinsi,Suhu
+2015,Aceh,29.5
+2016,Aceh,28.2
+2017,Aceh,28.8
+2018,Aceh,28.4
+2019,Aceh,27.7
+2020,Aceh,28.8
+2015,Sumatera Utara,29.3
+2016,Sumatera Utara,28.6
+2017,Sumatera Utara,27.1
+2018,Sumatera Utara,29.0
+2019,Sumatera Utara,28.5
+2020,Sumatera Utara,27.9
+2015,Sumatera Barat,27.1
+2016,Sumatera Barat,26.7
+2017,Sumatera Barat,26.7
+2018,Sumatera Barat,28.2
+2019,Sumatera Barat,26.7
+2020,Sumatera Barat,28.7
+2015,Riau,29.3
+2016,Riau,28.7
+2017,Riau,26.9
+2018,Riau,28.2
+2019,Riau,28.1
+2020,Riau,28.4
+2015,Kepulauan Riau,28.5
+2016,Kepulauan Riau,28.5
+2017,Kepulauan Riau,28.8
+2018,Kepulauan Riau,27.4
+2019,Kepulauan Riau,26.7
+2020,Kepulauan Riau,26.8
+2015,Jambi,27.6
+2016,Jambi,28.0
+2017,Jambi,28.0
+2018,Jambi,27.0
+2019,Jambi,27.5
+2020,Jambi,28.6
+2015,Sumatera Selatan,28.3
+2016,Sumatera Selatan,27.9
+2017,Sumatera Selatan,27.1
+2018,Sumatera Selatan,29.0
+2019,Sumatera Selatan,27.0
+2020,Sumatera Selatan,26.7
+2015,Bangka Belitung,26.5
+2016,Bangka Belitung,29.0
+2017,Bangka Belitung,28.3
+2018,Bangka Belitung,28.9
+2019,Bangka Belitung,28.3
+2020,Bangka Belitung,28.7
+2015,Bengkulu,26.7
+2016,Bengkulu,29.4
+2017,Bengkulu,26.8
+2018,Bengkulu,28.9
+2019,Bengkulu,26.5
+2020,Bengkulu,28.8
+2015,Lampung,26.9
+2016,Lampung,28.6
+2017,Lampung,28.4
+2018,Lampung,27.1
+2019,Lampung,27.8
+2020,Lampung,26.8
+2015,DKI Jakarta,28.0
+2016,DKI Jakarta,27.3
+2017,DKI Jakarta,26.8
+2018,DKI Jakarta,28.8
+2019,DKI Jakarta,28.3
+2020,DKI Jakarta,27.7
+2015,Jawa Barat,26.6
+2016,Jawa Barat,26.8
+2017,Jawa Barat,26.7
+2018,Jawa Barat,27.0
+2019,Jawa Barat,26.5
+2020,Jawa Barat,27.2
+2015,Banten,26.8
+2016,Banten,29.2
+2017,Banten,26.5
+2018,Banten,29.1
+2019,Banten,29.1
+2020,Banten,29.3
+2015,Jawa Tengah,28.3
+2016,Jawa Tengah,26.5
+2017,Jawa Tengah,27.9
+2018,Jawa Tengah,27.8
+2019,Jawa Tengah,28.4
+2020,Jawa Tengah,26.8
+2015,DI Yogyakarta,29.5
+2016,DI Yogyakarta,27.1
+2017,DI Yogyakarta,28.2
+2018,DI Yogyakarta,27.7
+2019,DI Yogyakarta,27.8
+2020,DI Yogyakarta,26.6
+2015,Jawa Timur,28.1
+2016,Jawa Timur,27.6
+2017,Jawa Timur,29.4
+2018,Jawa Timur,26.5
+2019,Jawa Timur,27.2
+2020,Jawa Timur,28.1
+2015,Bali,29.0
+2016,Bali,27.6
+2017,Bali,28.0
+2018,Bali,27.2
+2019,Bali,29.2
+2020,Bali,27.7
+2015,Nusa Tenggara Barat,29.1
+2016,Nusa Tenggara Barat,27.5
+2017,Nusa Tenggara Barat,28.7
+2018,Nusa Tenggara Barat,28.2
+2019,Nusa Tenggara Barat,26.6
+2020,Nusa Tenggara Barat,27.7
+2015,Nusa Tenggara Timur,28.6
+2016,Nusa Tenggara Timur,27.8
+2017,Nusa Tenggara Timur,27.0
+2018,Nusa Tenggara Timur,28.7
+2019,Nusa Tenggara Timur,28.9
+2020,Nusa Tenggara Timur,26.9
+2015,Kalimantan Barat,27.8
+2016,Kalimantan Barat,29.0
+2017,Kalimantan Barat,29.4
+2018,Kalimantan Barat,27.7
+2019,Kalimantan Barat,29.4
+2020,Kalimantan Barat,28.3
+2015,Kalimantan Tengah,27.5
+2016,Kalimantan Tengah,28.4
+2017,Kalimantan Tengah,27.0
+2018,Kalimantan Tengah,28.4
+2019,Kalimantan Tengah,27.5
+2020,Kalimantan Tengah,28.5
+2015,Kalimantan Selatan,27.0
+2016,Kalimantan Selatan,27.5
+2017,Kalimantan Selatan,29.2
+2018,Kalimantan Selatan,27.1
+2019,Kalimantan Selatan,29.1
+2020,Kalimantan Selatan,29.2
+2015,Kalimantan Timur,29.5
+2016,Kalimantan Timur,28.0
+2017,Kalimantan Timur,26.6
+2018,Kalimantan Timur,27.0
+2019,Kalimantan Timur,28.2
+2020,Kalimantan Timur,28.6
+2015,Kalimantan Utara,27.9
+2016,Kalimantan Utara,28.8
+2017,Kalimantan Utara,26.9
+2018,Kalimantan Utara,28.0
+2019,Kalimantan Utara,28.1
+2020,Kalimantan Utara,27.7
+2015,Sulawesi Utara,29.4
+2016,Sulawesi Utara,29.2
+2017,Sulawesi Utara,28.9
+2018,Sulawesi Utara,26.9
+2019,Sulawesi Utara,29.3
+2020,Sulawesi Utara,29.4
+2015,Gorontalo,26.6
+2016,Gorontalo,27.7
+2017,Gorontalo,26.9
+2018,Gorontalo,28.6
+2019,Gorontalo,28.6
+2020,Gorontalo,28.6
+2015,Sulawesi Tengah,29.3
+2016,Sulawesi Tengah,28.0
+2017,Sulawesi Tengah,29.3
+2018,Sulawesi Tengah,28.0
+2019,Sulawesi Tengah,27.2
+2020,Sulawesi Tengah,27.8
+2015,Sulawesi Barat,26.5
+2016,Sulawesi Barat,28.8
+2017,Sulawesi Barat,29.0
+2018,Sulawesi Barat,28.4
+2019,Sulawesi Barat,27.5
+2020,Sulawesi Barat,28.0
+2015,Sulawesi Selatan,29.4
+2016,Sulawesi Selatan,27.9
+2017,Sulawesi Selatan,28.8
+2018,Sulawesi Selatan,26.8
+2019,Sulawesi Selatan,27.4
+2020,Sulawesi Selatan,28.0
+2015,Sulawesi Tenggara,28.0
+2016,Sulawesi Tenggara,29.2
+2017,Sulawesi Tenggara,27.7
+2018,Sulawesi Tenggara,27.2
+2019,Sulawesi Tenggara,27.2
+2020,Sulawesi Tenggara,27.3
+2015,Maluku,27.6
+2016,Maluku,28.5
+2017,Maluku,29.1
+2018,Maluku,29.1
+2019,Maluku,27.8
+2020,Maluku,28.2
+2015,Maluku Utara,28.1
+2016,Maluku Utara,29.2
+2017,Maluku Utara,27.5
+2018,Maluku Utara,28.5
+2019,Maluku Utara,27.8
+2020,Maluku Utara,29.0
+2015,Papua Barat,28.5
+2016,Papua Barat,28.4
+2017,Papua Barat,26.7
+2018,Papua Barat,26.9
+2019,Papua Barat,26.6
+2020,Papua Barat,28.5
+2015,Papua,27.8
+2016,Papua,28.1
+2017,Papua,29.3
+2018,Papua,27.5
+2019,Papua,28.3
+2020,Papua,29.2
+2015,Papua Tengah,26.7
+2016,Papua Tengah,27.1
+2017,Papua Tengah,26.5
+2018,Papua Tengah,26.8
+2019,Papua Tengah,27.5
+2020,Papua Tengah,29.5
+2015,Papua Pegunungan,28.8
+2016,Papua Pegunungan,27.9
+2017,Papua Pegunungan,27.7
+2018,Papua Pegunungan,26.7
+2019,Papua Pegunungan,28.8
+2020,Papua Pegunungan,27.1
+2015,Papua Selatan,27.1
+2016,Papua Selatan,28.4
+2017,Papua Selatan,28.2
+2018,Papua Selatan,29.4
+2019,Papua Selatan,28.8
+2020,Papua Selatan,27.1
+2015,Papua Barat Daya,26.8
+2016,Papua Barat Daya,29.2
+2017,Papua Barat Daya,27.4
+2018,Papua Barat Daya,29.4
+2019,Papua Barat Daya,27.0
+2020,Papua Barat Daya,28.8
